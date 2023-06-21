@@ -1,0 +1,22 @@
+{
+    "name": "AstroMD",
+    "description": "qr",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author" : "Ravindu Manoj",
+    "dependencies": {
+        "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "axios": "^0.24.0",
+        "wa_set_pkg": "1.0.1",
+        "chalk": "^4.1.2",
+        "child_process": "^1.0.2",
+        "fs": "0.0.1-security",
+        "os": "^0.1.2",
+        "pino": "^7.0.5",
+        "megajs": "^1.1.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
